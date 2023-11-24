@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape
+            android:shape="rectangle">
+            <solid android:color="#FFFFFF"/> <!-- Background color of the button -->
+            <corners android:radius="2dp"/> <!-- Radius of the corners in dp -->
+        </shape>
+    </item>
+</layer-list>
